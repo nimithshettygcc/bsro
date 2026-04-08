@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/bsro/:/"
+    "/content/bsro-test/:/"
   ],
   "includes": [
-    "/content/bsro/"
+    "/content/bsro-test/"
   ]
 }
